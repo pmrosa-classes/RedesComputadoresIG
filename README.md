@@ -1,5 +1,5 @@
-# Redes de Computadores 2021-2022 - Engenharia Informática
-*Conteudos da Unidade Curricular de Redes de Computadores em exclusivo no curso de ***Engenharia Informática 1º ano*** do IADE/Universidade Europeia*
+# Redes de Computadores 2021-2022 - Informática de Gestão
+*Conteudos da Unidade Curricular de Redes de Computadores em exclusivo no curso de ***Informática de Gestão 2º ano*** do IADE/Universidade Europeia*
 
 O objectivo da cadeira é dotar os alunos de conhecimentos da concepção das componentes protocolares das redes de computadores, bem como de algumas componentes práticas de redes TCP/IP e de equipamentos activos de rede.
 
