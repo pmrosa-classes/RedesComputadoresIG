@@ -7,10 +7,10 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 
 
 ### Horário 
-| Dia | Hora | Turma |
-| :-----------: | :-----------: | :----------: |
-| Quarta-feira | 16:00 - 18:40 | T2 |
-| Quinta-feira | 16:00 - 18:40 | T1 |
+| Dia | Hora | 
+| :-----------: | :-----------: |
+| Segunda-feira | 16:00 - 18:40 |
+
 
 ## Programa
 ### Aulas Teóricas
@@ -29,13 +29,16 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 -	IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4)
 -	IPv6 e serviços (DNSv6 e DHCPv6)
 -	IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Miai botnet, etc)
+-	Integração de Sistemas
+- Webservices
+- B2B
 
 *Slides disponiveis no Canvas.*
 
 ### Aulas Práticas:
-- [Laboratórios práticos](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md) de TCP/IP (endereçamento IP, routing em máquinas virtuais e Cisco Packet Tracer)
-- Inclui a utilização de máquinas virtuais e do simulador de rede Cisco Packet Tracer (ver [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) quais os passos preparatórios para a realização dos laboratórios). Existe um [roteiro](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/roteiro-packet-tracer.md) para as aulas Packet Tracer;
-- Apoio a realização do trabalho prático sobre Networking/IoT em Cisco Packet Tracer.
+---->>>> - [Laboratórios práticos](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md) de TCP/IP (endereçamento IP, routing em máquinas virtuais e Cisco Packet Tracer)
+---->>>> - Inclui a utilização de máquinas virtuais e do simulador de rede Cisco Packet Tracer (ver [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) quais os passos preparatórios para a realização dos laboratórios). Existe um [roteiro](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/roteiro-packet-tracer.md) para as aulas Packet Tracer;
+---->>>> - Apoio a realização do trabalho prático sobre Networking/IoT em Cisco Packet Tracer.
 
 ### Planeamento previsto (pode sofrer alterações!)[#planeamento]
 | Aula | Data | Aula |
@@ -94,7 +97,7 @@ Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomead
 - Laboratórios Práticos com exercícios práticos para configuração dos equipamentos em simulador Cisco Packet Tracer e exercicios práticos com máquinas virtuais (neste repositório)
 
 ## Discord
-Poderá ser util juntarem-se ao Discord da cadeira: https://discord.gg/52fYwsM9 (invite criado em 09.02.2022).
+Poderá ser util juntarem-se ao Discord da cadeira:  (invite criado em 11.02.2022).
 
 Para terem acesso aos canais do Discord devem alterar o vosso *nick* para PrimeiroUltimo nome no servidor e colocar uma mensagem em **#general** com "Numero - Primeiro&UltimoNome - Turma" para serem atribuídos os roles adequados.
 
