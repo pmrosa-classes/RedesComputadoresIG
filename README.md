@@ -7,9 +7,7 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 
 
 ### Horário 
-| Dia | Hora | 
-| :-----------: | :-----------: |
-| Segunda-feira | 16:00 - 18:40 |
+- Segunda-feira, 16:00 - 18:40
 
 
 ## Programa
