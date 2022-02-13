@@ -28,16 +28,17 @@ Os alunos devem:
 ### Contributos das Unidades Curriculares
 
 #### Administração e Gestão de Informação 
-*(a preencher pelo Docente da UC)*
+*(a preencher pelo Docente da UC, incluindo necessidade de BDs cifradas)*
 
 #### Programação Web
-*(a preencher pelo Docente da UC)*
+*(a preencher pelo Docente da UC, incluindo implementação prática do sistema e app exemplo)*
 
 #### Cibersegurança
-*(a preencher pelo Docente da UC)*
+*(a preencher pelo Docente da UC, incluindo conceito TOTP)*
 
 #### Redes e Comunicação de Dados
-- Sistema multi-máquina com correta interligação e filtragem de pacotes entre servidores
+- Configuração da Arquitetura de disponibilização do serviço
+- Disponibilização de um sistema multi-máquina com correta interligação e filtragem de pacotes entre servidores
 - Ajuda na implementação da comunicação segura (em conjunto com CiberSegurança)
 
 ### Fases do Projeto
