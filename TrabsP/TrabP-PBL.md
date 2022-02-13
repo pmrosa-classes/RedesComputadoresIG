@@ -1,4 +1,4 @@
-# Trabalho Prático em Project Base LEarning (PBL) para as Unidades Curriculares de Programação Web, Redes de Computadores, Ciber-Segurança e Bases de Dados
+# Trabalho Prático em Project Base LEarning (PBL) para as Unidades Curriculares de Administração e Gestão de Informação, Programação Web, Cibersegurança e Redes e Comunicação de Dados
 
 # Sistema de Autenticação de Dois Factores 
 
@@ -8,6 +8,7 @@
 
 Pretende-se a implementação de um sistema de autenticação de dois fatores suportado num ambiente multi-máquina com comunicações seguras, executado em máquinas virtuais ou ambiente de Cloud.
 O objetivo é aumentar a segurança da autenticação de aplicações, para tal deve associar o sistema a uma "aplicação exemplo" já existente ou a desenvolver. Essa aplicação deve ser identificada na proposta de projecto.
+O sistema de dois fatores a utilizar deve ser proposto pelo grupo (app mobile, endereço de mail registado, etc) e sempre baseado em TOTP (Time-based One Time Password). 
 
 ### Objetivos a concretizar:
 
@@ -20,13 +21,24 @@ O objetivo é aumentar a segurança da autenticação de aplicações, para tal 
 
 Os alunos devem:
 - Utilizar o GitHub para gestão de versões e documentação em que a página de descrição do projeto contém a descrição e links para demais documentação do projeto;
-- Base de dados cifrada (Bases de Dados & CiberSegurança)
-- Comunicação segura entre todas as componentes (Cibersegurança & Redes)
+- Base de dados cifrada
+- Comunicação segura entre todas as componentes
 - Utilizar o Discord do Projeto para comunicação com Docentes e membros do grupo.
 
 ### Contributos das Unidades Curriculares
 
-#### Redes de Computadores
+#### Administração e Gestão de Informação 
+*(a preencher pelo Docente da UC)*
+
+#### Programação Web
+*(a preencher pelo Docente da UC)*
+
+#### Cibersegurança
+*(a preencher pelo Docente da UC)*
+
+#### Redes e Comunicação de Dados
+- Sistema multi-máquina com correta interligação e filtragem de pacotes entre servidores
+- Ajuda na implementação da comunicação segura (em conjunto com CiberSegurança)
 
 ### Fases do Projeto
 - Análise e conceptualização, nas diversas áreas do projeto (desenvolvimento web, ...);
