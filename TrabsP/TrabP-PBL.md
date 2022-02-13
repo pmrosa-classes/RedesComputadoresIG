@@ -50,9 +50,10 @@ Os alunos devem:
 - Apresentação.
 
 **Entregáveis:**
-- Contituição do Grupo ()
-- Proposta de Trabalho ()
-- Entrega de vídeo com Pitch de 3 min com apresentação da proposta ()
+- Contituição do Grupo (23 de fevereiro)
+- Entrega da proposta de trabalho (2 de março)
+- Entrega de vídeo com Pitch de 3 min com apresentação da proposta (4 de março)
+- Apresentação da proposta de trabalho (semana de 7 a 11 de março)
 - Apresentação intermédia que deve incluir apresentação do protótipo ()
 - Relatório final do projecto, de acordo com o template a disponibilizar, com inclusão de:
   - folha de rosto com título e identificação dos alunos;
