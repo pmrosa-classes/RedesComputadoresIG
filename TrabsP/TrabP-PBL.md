@@ -1,4 +1,4 @@
-# Trabalho Prático em Project Base LEarning (PBL) para as Unidades Curriculares de Administração e Gestão de Informação, Programação Web, Cibersegurança e Redes e Comunicação de Dados
+# Trabalho Prático em Project Base Learning (PBL) para as Unidades Curriculares de Administração e Gestão de Informação, Programação Web, Cibersegurança e Redes e Comunicação de Dados
 
 # Sistema de Autenticação de Dois Factores 
 
@@ -8,7 +8,7 @@
 
 Pretende-se a implementação de um sistema de autenticação de dois fatores suportado num ambiente multi-máquina com comunicações seguras, executado em máquinas virtuais ou ambiente de Cloud.
 O objetivo é aumentar a segurança da autenticação de aplicações, para tal deve associar o sistema a uma "aplicação exemplo" já existente ou a desenvolver. Essa aplicação deve ser identificada na proposta de projecto.
-O sistema de dois fatores a utilizar deve ser proposto pelo grupo (app mobile, endereço de mail registado, etc) e sempre baseado em TOTP (Time-based One Time Password). 
+O sistema de dois fatores a utilizar deve ser proposto pelo grupo (app mobile, endereço de mail registado, etc) e sempre baseado em TOTP (Time-based One-Time Password). 
 
 ### Objetivos a concretizar:
 
@@ -42,8 +42,7 @@ Os alunos devem:
 - Ajuda na implementação da comunicação segura (em conjunto com CiberSegurança)
 
 ### Fases do Projeto
-- Análise e conceptualização, nas diversas áreas do projeto (desenvolvimento web, ...);
-- Planeamento;
+- Análise e Planeamento;
 - Prototipagem;
 - Implementação;
 - Testes;
@@ -54,18 +53,11 @@ Os alunos devem:
 - Entrega da proposta de trabalho (2 de março)
 - Entrega de vídeo com Pitch de 3 min com apresentação da proposta (4 de março)
 - Apresentação da proposta de trabalho (semana de 7 a 11 de março)
-- Apresentação intermédia que deve incluir apresentação do protótipo ()
-- Relatório final do projecto, de acordo com o template a disponibilizar, com inclusão de:
+- Apresentação intermédia que deve incluir apresentação do protótipo (1 de abril)
+- Relatório final do projecto (13 de maio), de acordo com o template a disponibilizar, com inclusão de:
   - folha de rosto com título e identificação dos alunos;
   - resumo e palavras-chave;
   - identificação da aplicação escolhida e justificação do uso de 2FA
   - componente técnica, com a documentação do código fonte
-- Apresentação Final ()
-
-
-
-
-**Datas:**
-- Verificar data de entrega/apresentação no calendário da cadeira.
-
+- Apresentação Final (ultima semana de aulas)
 
