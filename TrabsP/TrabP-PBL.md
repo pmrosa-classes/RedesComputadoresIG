@@ -49,7 +49,7 @@ Os alunos devem:
 - Apresentação.
 
 **Entregáveis:**
-- Contituição do Grupo (23 de fevereiro)
+- Constituição do Grupo (23 de fevereiro)
 - Entrega da proposta de trabalho (2 de março)
 - Entrega de vídeo com Pitch de 3 min com apresentação da proposta (4 de março)
 - Apresentação da proposta de trabalho (semana de 7 a 11 de março)
