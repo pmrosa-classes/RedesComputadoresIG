@@ -1,4 +1,4 @@
-# Trabalho Prático - PBL (Redes de Computadores, Ciber-Segurança, Programação Web, Bases de Dados)
+# Trabalho Prático em Project Base LEarning (PBL) para as Unidades Curriculares de Programação Web, Redes de Computadores, Ciber-Segurança e Bases de Dados
 
 # Sistema de Autenticação de Dois Factores 
 
