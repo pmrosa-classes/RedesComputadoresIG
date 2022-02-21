@@ -62,7 +62,7 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 
 #### 1.1 - Trabalho Teórico (15%)
 O trabalho teórico baseia-se na apresentação de um paper. Valerá 15% para a classificação final da Unidade Curricular.Este trabalho é individual.
-Consulte o [Enunciado](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/TrabT/TrabT.md) para efetuar a escolha do tema. 
+Consulte o [Enunciado](https://github.com/pmrosa-classes/RedesComoputadoresIG/blob/main/TrabT/TrabT.md) para efetuar a escolha do tema. 
 
 Importante escolher até **25 de fevereiro**.
 
@@ -70,14 +70,14 @@ Depois de distribuídos os temas (**até 27 de fevereiro**) as datas de apresent
 
 #### 1.2 - Trabalho Prático/PBL (30%)
 
-Enunciado conjunto do [Trabalho Prático](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/TrabsP/TrabsPraticos.md).
+Enunciado conjunto do [Trabalho Prático](https://github.com/pmrosa-classes/RedesComoputadoresIG/blob/main/TrabsP/TrabsPraticos.md).
 Este trabalho é em grupo (3 alunos no máximo, 2 alunos no minimo) e será efetuado em conjunto com mais três unidades curriculares.
 
 Importante respeitar as datas de entrega. Não serão aceites adiamentos.
 
 ### 2. Uma componente de avaliação continua: Trabalho Prático/PBL (30%)
 
-Enunciado conjunto do [Trabalho Prático](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/TrabsP/TrabsPraticos.md).
+Enunciado conjunto do [Trabalho Prático](https://github.com/pmrosa-classes/RedesComoputadoresIG/blob/main/TrabsP/TrabsPraticos.md).
 Este trabalho é em grupo (3 alunos no máximo, 2 alunos no minimo) e será efetuado em conjunto com mais três unidades curriculares.
 
 Importante respeitar as datas de entrega. Não serão aceites adiamentos.
@@ -111,7 +111,7 @@ Poderá ser util juntarem-se ao Discord da cadeira:  (invite criado em 21.02.202
 Para terem acesso aos canais do Discord devem alterar o vosso *nick* para PrimeiroUltimo nome no servidor e colocar uma mensagem em **#general** com "Numero - Primeiro&UltimoNome - Turma" para serem atribuídos os roles adequados.
 
 ## Grupos
-Os trabalhos práticos são em grupo. A [constituição dos grupos](https://github.com/pmrosa-classes/ComputerNetworksIG) (3 alunos no máximo, 2 alunos no minimo) deve ser colocada na tarefa respetiva no Canvas até dia 25 de fevereiro: https://mycampus.pt/courses/7345/assignments/8738
+Os trabalhos práticos são em grupo. A [constituição dos grupos](https://github.com/pmrosa-classes/ComputerNetworksIG) (3 alunos no máximo, 2 alunos no minimo) deve ser colocada na tarefa respetiva no Canvas até dia 25 de fevereiro: **AGUARDAR INSTRUÇÕES**
 
 ## Resumo do Calendário da UC
 *(em atualização)*
