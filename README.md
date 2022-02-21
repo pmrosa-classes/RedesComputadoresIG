@@ -92,7 +92,7 @@ De acordo com o **Regulamento Geral de Avaliação de Conhecimentos e Competênc
 - *A realização de uma prova final — teste escrito, coincidente em calendário letivo com a época normal da avaliação final.*
 *Sendo a avaliação contínua aquela que, com caráter regular e constante, decorre durante todo o período letivo e reflete uma permanente interação entre o docente e o estudante.*
 
-Nesta UC são instrumentos da avaliação contínua, o Trabalho Teórico (15%) individual que inclui apresentação à turma, os Trabalhos Práticos (45%) em grupo que no trabalho final inclui apresentação e o teste escritos final. 
+Nesta UC são instrumentos da avaliação contínua, o Trabalho Teórico (15%) individual que inclui apresentação à turma, os Trabalhos Práticos/PBL (30%) em grupo que no trabalho final inclui apresentação e o teste escritos final. 
 
 **Nota Relevante:** Não são admitidos à realização da prova final de avaliação continua, os estudantes que obtiverem uma classificação inferior a 8 (oito) valores na média dos elementos de avaliação previstos, neste caso o Trabalho Teórico (15%) individual e os os Trabalhos Práticos (45%) em grupo. Poderá, no entanto, não realizar alguns trabalhos. 
 
