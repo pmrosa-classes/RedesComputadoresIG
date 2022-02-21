@@ -1,6 +1,6 @@
 # Trabalho Prático/PBL (30%)
 
-# Project Briefing - Trabalho Prático em Project Base Learning (PBL) para as Unidades Curriculares de Administração e Gestão de Informação, Programação Web, Cibersegurança e Redes e Comunicação de Dados
+# *Project Briefing* - Trabalho Prático em Project Base Learning (PBL) para as Unidades Curriculares de Administração e Gestão de Informação, Programação Web, Cibersegurança e Redes e Comunicação de Dados
 
 # Sistema de Autenticação de Dois Factores 
 
