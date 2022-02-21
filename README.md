@@ -60,7 +60,7 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 
 ### 1. Trabalho Teórico (15%) + Prático/PBL (30%)
 
-### 1.1 Trabalho Teórico (15%)
+#### 1.1 - Trabalho Teórico (15%)
 O trabalho teórico baseia-se na apresentação de um paper. Valerá 15% para a classificação final da Unidade Curricular.Este trabalho é individual.
 Consulte o [Enunciado](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/TrabT/TrabT.md) para efetuar a escolha do tema. 
 
@@ -68,14 +68,14 @@ Importante escolher até **25 de fevereiro**.
 
 Depois de distribuídos os temas (**até 27 de fevereiro**) as datas de apresentação estarão disponiveis [aqui](https://github.com/pmrosa-classes/ComputerNetworksIG).
 
-### 1.2 Trabalho Prático/PBL (30%)
+#### 1.2 - Trabalho Prático/PBL (30%)
 
 Enunciado conjunto do [Trabalho Prático](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/TrabsP/TrabsPraticos.md).
 Este trabalho é em grupo (3 alunos no máximo, 2 alunos no minimo) e será efetuado em conjunto com mais três unidades curriculares.
 
 Importante respeitar as datas de entrega. Não serão aceites adiamentos.
 
-## 2. Trabalho Prático/PBL (30%)
+### 2. Trabalho Prático/PBL (30%)
 
 Enunciado conjunto do [Trabalho Prático](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/TrabsP/TrabsPraticos.md).
 Este trabalho é em grupo (3 alunos no máximo, 2 alunos no minimo) e será efetuado em conjunto com mais três unidades curriculares.
