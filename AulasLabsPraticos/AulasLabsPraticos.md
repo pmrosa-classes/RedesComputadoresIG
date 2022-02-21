@@ -27,17 +27,17 @@ Instruções resumidas (podem não dispensar a consulta do manual referido anter
 *Nota: É possível correr as máquinas dos SEED LABS na Cloud. [Neste repositório](https://github.com/seed-labs/seed-labs/blob/master/manuals/cloud/seedvm-cloud.md) da SEED Labs poderá verificar como o fazer. Não haverá suporte do Docente para esta configuração*
 
 # Laboratórios
-Para a calendarização prevista dos seguintes laboratórios ver as [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/README.md#planeamento-previsto-pode-sofrer-alteraçõesplaneamento) as datas.
+Para a calendarização prevista dos seguintes laboratórios ver as [aqui](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/README.md#planeamento-previsto-pode-sofrer-alteraçõesplaneamento) as datas.
 
 ## 3. Laboratório 1: Routing I 
 
-Seguir os [seguintes](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/AulasLabsPraticos/RoutingI.md) passos para a realização do laboratório.
+Seguir os [seguintes](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/RoutingI.md) passos para a realização do laboratório.
 
 ## 4. Laboratório 2: Routing II
 
-Seguir os [seguintes](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/AulasLabsPraticos/RoutingII.md) passos para a realização do laboratório.
+Seguir os [seguintes](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/RoutingII.md) passos para a realização do laboratório.
 
 ## 5. Laboratório 3: Captura de Tráfego numa Rede 
 
-Seguir os [seguintes](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/AulasLabsPraticos/CapturaTrafegoRede.md) passos para a realização do laboratório.
+Seguir os [seguintes](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/CapturaTrafegoRede.md) passos para a realização do laboratório.
 
