@@ -29,15 +29,15 @@ Instruções resumidas (podem não dispensar a consulta do manual referido anter
 # Laboratórios
 Para a calendarização prevista dos seguintes laboratórios ver as [aqui](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/README.md#planeamento-previsto-pode-sofrer-alteraçõesplaneamento) as datas.
 
-## 3. Laboratório 1: Routing I 
+## 1. Laboratório 1: Routing I 
 
 Seguir os [seguintes](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/RoutingI.md) passos para a realização do laboratório.
 
-## 4. Laboratório 2: Routing II
+## 2. Laboratório 2: Routing II
 
 Seguir os [seguintes](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/RoutingII.md) passos para a realização do laboratório.
 
-## 5. Laboratório 3: Captura de Tráfego numa Rede 
+## 3. Laboratório 3: Captura de Tráfego numa Rede 
 
 Seguir os [seguintes](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/CapturaTrafegoRede.md) passos para a realização do laboratório.
 
