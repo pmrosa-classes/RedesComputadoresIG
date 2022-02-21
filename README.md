@@ -34,8 +34,8 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 *Slides disponiveis no Canvas.*
 
 ### Aulas Práticas:
-- [Laboratórios práticos](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/AulasLabsPraticos/AulasLabsPraticos.md) de TCP/IP (endereçamento IP, routing e segurança em máquinas virtuais)
-- Inclui a utilização de máquinas virtuais (ver [aqui](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) quais os passos preparatórios para a realização dos laboratórios). 
+- [Laboratórios práticos](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/AulasLabsPraticos.md) de TCP/IP (endereçamento IP, routing e segurança em máquinas virtuais)
+- Inclui a utilização de máquinas virtuais (ver [aqui](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) quais os passos preparatórios para a realização dos laboratórios). 
 - Apoio a realização do trabalho prático / PBL.
 
 ### Planeamento previsto (pode sofrer alterações!)[#planeamento]
