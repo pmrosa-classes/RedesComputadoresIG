@@ -106,7 +106,7 @@ Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomead
 - Laboratórios Práticos com exercicios práticos com máquinas virtuais (neste repositório)
 
 ## Discord
-Poderá ser util juntarem-se ao Discord da cadeira:  (invite criado em 21.02.2022).
+Poderá ser util juntarem-se ao Discord da cadeira: https://discord.gg/CC9ARR5T (invite criado em 21.02.2022 - expira 7 dias depois).
 
 Para terem acesso aos canais do Discord devem alterar o vosso *nick* para PrimeiroUltimo nome no servidor e colocar uma mensagem em **#general** com "Numero - Primeiro&UltimoNome - Turma" para serem atribuídos os roles adequados.
 
