@@ -2,26 +2,25 @@
 
 ## 1ª componente de avaliação continua: Análise e apresentação de um paper sobre **Internet of Things / Tecnologias de rede** – 15% da avaliação – realização voluntária.
 
-Os alunos deverão escolher três papers que tenham sido apresentados numa das conferências com rank A+ ou A em http://portal.core.edu.au/conf-ranks/ nos anos de 2018, 2019, 2020 ou já em 2021 ou em alternativa de um destes sites:
+Os alunos deverão escolher três papers que tenham sido apresentados numa das conferências/journals nos anos de 2018, 2019, 2020 ou 2021 de um destes sites (apenas sugestão, podem procurar de outros locais):
 - https://dl.acm.org
 - https://www.usenix.org/conference/usenixsecurity19/technical-sessions
 - https://www.ndss-symposium.org/ndss-program/ndss-symposium-%202019-program/
 
+Poderão procurar por várias keyworks para obterem resultados relevantes para a unidade curricular, entre os quais “IoT”, “5G”, “Wifi 6”, “Smart Cities”, “Smart Transportation”, “Smart Homes”, “Smart Grid”, etc (mais uma vez são apenas sugestões).
 
-Poderão procurar por várias keyworks para obterem resultados relevantes para a unidade curricular, entre os quais “IoT”, “5G”, “Wifi 6”, “Smart Cities”, “Smart Transportation”, “Smart Homes”, “Smart Grid”, etc.
+As apresentações serão feitas com recurso a um powerpoint (ou semelhante) e com um tempo de apresentação de 15 minutos, durante as aulas.
+O processo de escolha decorre entre 21 e 25 de fevereiro (segunda semana de aulas), para tal deverão preencher a atividade adequada no Canvas: https://mycampus.pt/courses/7345/assignments/8737
 
-As apresentações serão feitas com recurso a um powerpoint (ou semelhante) e com um tempo de apresentação de 20 minutos, durante as aulas.
-O processo de escolha decorre entre 14 e 18 de fevereiro (primeira semana de aulas), para tal deverão preencher a atividade adequada no Canvas: https://mycampus.pt/courses/7345/assignments/8737
-
-Dos três papers escolhidos, o Docente escolherá um que os alunos terão que apresentar em datas a marcar (conforme o número total de apresentações a efetuar) e que se iniciam  na semana de 28/2 em LIFO (Last In First Out).
+Dos três papers escolhidos, o Docente escolherá um que os alunos terão que apresentar em datas a marcar (conforme o número total de apresentações a efetuar) e que se iniciam  na semana de 7/3 em LIFO (Last In First Out).
 
 Em caso de repetição de escolhas será sempre usado o método FIFO (First In First Out).
 
-A distribuição estará disponível [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabT/TrabT-distribuicao.md) depois de dia 20 de fevereiro. 
+A distribuição estará disponível [aqui]() depois de dia 27 de fevereiro. 
 
 **A análise deve basear-se sobre o estudo ou implementação descrita**, podendo ser útil verificar outros papers referenciados. É importante para a avaliação que o aluno exponha exatamente o que é relevante do paper, expondo ainda o seu ponto de vista sobre o que apresenta. Não é necessário nenhum relatório.
 
-Algumas [dicas](https://github.com/pmrosa-classes/ComputerNetworks/edit/main/TrabT-dicas.md) sobre como analisar os papers adequadamente.
+Algumas [dicas](https://github.com/pmrosa-classes/RedesComputadoresIG/edit/main/TrabT-dicas.md) sobre como analisar os papers adequadamente.
 
 Critérios de avaliação dos papers:
 - 5% - Apresentação do **objetivo** do paper e devido enquadramento.
