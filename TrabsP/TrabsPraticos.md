@@ -85,16 +85,16 @@ Os alunos devem:
 - Apresentação.
 
 **Entregáveis:**
-- Constituição do Grupo (23 de fevereiro)
-- Entrega da proposta de trabalho (2 de março)
-- Entrega de vídeo com Pitch de 3 min com apresentação da proposta (4 de março)
-- Apresentação da proposta de trabalho (semana de 7 a 11 de março)
-- Apresentação intermédia que deve incluir apresentação do protótipo (1 de abril)
-- Relatório final do projecto (13 de maio), de acordo com o template a disponibilizar, com inclusão de:
+- Constituição do Grupo: **25 de fevereiro**
+- Entrega da proposta de trabalho: **4 de março**
+- Entrega de vídeo com Pitch de 3 min com apresentação da proposta **4 de março**
+- Apresentação da proposta de trabalho: **semana de 7 a 11 de março**
+- Apresentação intermédia que deve incluir apresentação do protótipo **1 de abril**
+- Relatório final do projecto até **13 de maio**, de acordo com o template a disponibilizar, com inclusão de:
   - folha de rosto com título e identificação dos alunos;
   - resumo e palavras-chave;
   - identificação da aplicação escolhida e justificação do uso de 2FA
   - componente técnica, com a documentação do código fonte
-- Apresentação Final (ultima semana de aulas)
+- Apresentação Final: **ultima semana de aulas**
 
 
