@@ -3,7 +3,7 @@
 
 O objectivo da cadeira é dotar os alunos de conhecimentos da concepção das componentes protocolares das redes de computadores, bem como de algumas componentes práticas de redes TCP/IP e de equipamentos activos de rede.
 
-Existem vários trabalhos a serem realizados para alunos em **avaliação continua**. Nas aulas teóricas os alunos deverão escolher um paper de investigação cientifica sobre temas da cadeira (Networking/IoT) e apresentar um resumo oralmente para a turma. Nas aulas práticas existe de trabalhos prático eeftuado em regime de PBL em conjunto com mais três Unidades Curriculares.
+Existem vários trabalhos a serem realizados para alunos em **avaliação continua**. Nas aulas teóricas os alunos deverão escolher um paper de investigação cientifica sobre temas da cadeira (Networking/IoT) e apresentar um resumo oralmente para a turma. Nas aulas práticas existe um trabalho prático efetuado em regime de PBL em conjunto com mais três Unidades Curriculares.
 
 
 ### Horário 
@@ -38,7 +38,7 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 - Inclui a utilização de máquinas virtuais (ver [aqui](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) quais os passos preparatórios para a realização dos laboratórios). 
 - Apoio a realização do trabalho prático / PBL.
 
-### Planeamento previsto (pode sofrer alterações!)[#planeamento]
+### Planeamento previsto (pode sofrer alterações!)
 | Aula | Data | Aula |
 | :-----------: | :-----------: | :---------- |
 | 01 | 14 fev | Apresentação; Introdução a Redes de Computadores & Aplicações; Introdução ao Modelo OSI  |
