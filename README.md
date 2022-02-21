@@ -41,37 +41,48 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 ### Planeamento previsto (pode sofrer alterações!)[#planeamento]
 | Aula | Data | Aula |
 | :-----------: | :-----------: | :---------- |
-| 01 | 14/17 fev | Apresentação; Introdução a Redes de Computadores & Aplicações; Introdução ao Modelo OSI  |
-| 02 | 23/24 fev | Modelo OSI - tecnologias (ethernet, wifi, 5g)  e layer 2 - VLANs, etc;	Modelo OSI - layer 3/routing; Modelo OSI - layer 4/transporte;  |
-| 03 | 2/3 mar | Modelo OSI - camadas aplicacionais; Internet (história/breve); TCP/IP arquitetura, Unicast, Multicast; Inicio doo estudo de TCP/IP |
-| 04 | 9/10 mar | TCP/IP pacotes IP / layer IP; TCP/IP ICMP, TCP, UDP / layer transporte; TCP/IP endereçamento IPv4 |
-| 05 | 16/17 mar | ***Laboratório 1 ([pré-requisito 0.1](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)*** ; Apoio ao trabalho prático Networking/IoT|
-| 06 | 23/24 mar | TCP/IP endereçamento IPv4 (inclui subnetting)|
-| 07 | 6/7 abr | ***Laboratório 2 ([pré-requisito 0.1](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)*** ; Apoio ao trabalho prático Networking/IoT |
-|   | 3/14 abr | *Páscoa*|
-| 08 | 20/21 abr | Protocolos (DNS, DHCP, HTTP, SNMP, etc) – essencial: saber exatemente como se resolvem os nomes; saber exatamente como se distribui endereçamento IP dinamicamente; IPv4 vs IPv6 enquadrar IPv6 como “obrigatório” nos dias de hoje|
-| 09 | 27/28 abr | ***Laboratório 3 ([pré-requisito 0.1](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)*** ; Apoio ao trabalho prático Networking/IoT|
-| 10 | 4/5 mai | IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4); IPv6 e serviços (DNSv6 e DHCPv6); Laboratório 5|
-| 11 | 11/12 mai | IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Miai botnet, etc); |
-| 12 | 18/19 mai | Integração de Sistemas; Webservices; B2B |
-| 13 | 25/26 mai | Apresentações dos trabalhos práticos PBL|
+| 01 | 14 fev | Apresentação; Introdução a Redes de Computadores & Aplicações; Introdução ao Modelo OSI  |
+| 02 | 21 fev | Modelo OSI - tecnologias (ethernet, wifi, 5g)  e layer 2 - VLANs, etc;	Modelo OSI - layer 3/routing; Modelo OSI - layer 4/transporte;  |
+| 03 | 28 fev | Modelo OSI - camadas aplicacionais; Internet (história/breve); TCP/IP arquitetura, Unicast, Multicast; Inicio doo estudo de TCP/IP |
+| 04 | 7 mar | TCP/IP pacotes IP / layer IP; TCP/IP ICMP, TCP, UDP / layer transporte; TCP/IP endereçamento IPv4 |
+| 05 | 14 mar | ***Laboratório 1 ([pré-requisito 0.1](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)*** ; Apoio ao trabalho prático Networking/IoT|
+| 06 | 21 mar | TCP/IP endereçamento IPv4 (inclui subnetting)|
+| 07 | 4 abr | ***Laboratório 2 ([pré-requisito 0.1](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)*** ; Apoio ao trabalho prático Networking/IoT |
+|   | 11 abr | *Páscoa*|
+| 08 | 18 abr | Protocolos (DNS, DHCP, HTTP, SNMP, etc) – essencial: saber exatemente como se resolvem os nomes; saber exatamente como se distribui endereçamento IP dinamicamente; IPv4 vs IPv6 enquadrar IPv6 como “obrigatório” nos dias de hoje|
+| 09 | 25 abr | ***Laboratório 3 ([pré-requisito 0.1](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)*** ; Apoio ao trabalho prático Networking/IoT|
+| 10 | 2 mai | IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4); IPv6 e serviços (DNSv6 e DHCPv6); Laboratório 5|
+| 11 | 9 mai | IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Miai botnet, etc); |
+| 12 | 16 mai | Integração de Sistemas; Webservices; B2B |
+| 13 | 23 mai | Apresentações dos trabalhos práticos PBL|
 
 ## Avaliação 
 
-### 1. Trabalho Teórico (15%)
+### 1. Trabalho Teórico (15%) + Prático/PBL (30%)
+
+### 1.1 Trabalho Teórico (15%)
 O trabalho teórico baseia-se na apresentação de um paper. Valerá 15% para a classificação final da Unidade Curricular.Este trabalho é individual.
-Consulte o [Enunciado](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabT/TrabT.md) para efetuar a escolha do tema. 
+Consulte o [Enunciado](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/TrabT/TrabT.md) para efetuar a escolha do tema. 
 
-Importante escolher até **18 de fevereiro**.
+Importante escolher até **25 de fevereiro**.
 
-Depois de distribuídos os temas (até 20 de fevereiro) as datas de apresentação estarão disponiveis [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabT/TrabT-distribuicao.md).
+Depois de distribuídos os temas (**até 27 de fevereiro**) as datas de apresentação estarão disponiveis [aqui](https://github.com/pmrosa-classes/ComputerNetworksIG).
 
-### 2. Trabalhos Práticos (45%)
-Enunciados dos [Trabalhos Práticos](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabsP/TrabsPraticos.md) da unidade curricular. Este trabalho é em grupo (3 alunos no máximo, 2 alunos no minimo).
+### 1.2 Trabalho Prático/PBL (30%)
+
+Enunciado conjunto do [Trabalho Prático](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/TrabsP/TrabsPraticos.md).
+Este trabalho é em grupo (3 alunos no máximo, 2 alunos no minimo) e será efetuado em conjunto com mais três unidades curriculares.
 
 Importante respeitar as datas de entrega. Não serão aceites adiamentos.
 
-### 3. Teste Escrito (40%)
+## 2. Trabalho Prático/PBL (30%)
+
+Enunciado conjunto do [Trabalho Prático](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/TrabsP/TrabsPraticos.md).
+Este trabalho é em grupo (3 alunos no máximo, 2 alunos no minimo) e será efetuado em conjunto com mais três unidades curriculares.
+
+Importante respeitar as datas de entrega. Não serão aceites adiamentos.
+
+### 3. Teste Escrito - Exame Final (100%)
 Teste Escrito unico a realizar na data marcada pela Secretaria Escolar.
 
 ### 4. Regras de Avaliacao Continua / Avaliação Final
@@ -87,32 +98,27 @@ Nesta UC são instrumentos da avaliação contínua, o Trabalho Teórico (15%) i
 
 Os alunos deverão ter uma taxa de presenças de 70% nas aulas. Excecionalmente 50% nos casos excecionados no regulamento.
 
-Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pelo regime de **avaliação final** (avaliação por exame) que integra uma prova escrita, ou outros elementos, sobre a matéria toda lecionada. Esta avaliação final ainda não está completamente definida mas, ou terá também elementos distintos da prova escrita, ou terá 60% do valor teórico/prático escrito (portanto relacionado com os laboratórios e trabalhos práticos).
+Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pelo regime de **avaliação final** (avaliação por exame) que integra uma prova escrita, ou outros elementos, sobre a matéria toda lecionada. Esta avaliação final ainda não está completamente definida mas, ou terá também elementos distintos da prova escrita, ou terá 45% do valor teórico/prático escrito (portanto relacionado com os laboratórios e trabalhos práticos).
 
 ## Método Pedagógico
 Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomeadamente:
 - Ficheiros pdf com os slides das aulas teóricas (Plataforma Canvas)
-- Laboratórios Práticos com exercícios práticos para configuração dos equipamentos em simulador Cisco Packet Tracer e exercicios práticos com máquinas virtuais (neste repositório)
+- Laboratórios Práticos com exercicios práticos com máquinas virtuais (neste repositório)
 
 ## Discord
-Poderá ser util juntarem-se ao Discord da cadeira:  (invite criado em 11.02.2022).
+Poderá ser util juntarem-se ao Discord da cadeira:  (invite criado em 21.02.2022).
 
 Para terem acesso aos canais do Discord devem alterar o vosso *nick* para PrimeiroUltimo nome no servidor e colocar uma mensagem em **#general** com "Numero - Primeiro&UltimoNome - Turma" para serem atribuídos os roles adequados.
 
 ## Grupos
-Os trabalhos práticos são em grupo. A [constituição dos grupos](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabsP/TrabsP-grupos.md) (3 alunos no máximo, 2 alunos no minimo) deve ser colocada na tarefa respetiva no Canvas até dia 25 de fevereiro: https://mycampus.pt/courses/7345/assignments/8738
+Os trabalhos práticos são em grupo. A [constituição dos grupos](https://github.com/pmrosa-classes/ComputerNetworksIG) (3 alunos no máximo, 2 alunos no minimo) deve ser colocada na tarefa respetiva no Canvas até dia 25 de fevereiro: https://mycampus.pt/courses/7345/assignments/8738
 
 ## Resumo do Calendário da UC
 *(em atualização)*
-- até 18 de fevereiro - Escolha dos temas para os trabalhos teóricos
-- 20 de fevereiro - Publicação da distribuição dos temas e datas de apresentação
+- até 25 de fevereiro - Escolha dos temas para os trabalhos teóricos
+- 27 de fevereiro - Publicação da distribuição dos temas e datas de apresentação
 - até 25 de fevereiro - Constituição dos grupos
-- a partir de 2 de março iniciam-se as apresentações dos trabalhos teóricos 
-- até 25 de março - Trabalho de Routing I - Ponderação: 7,5%
-- até 22 de abril - Trabalho de Routing II - Ponderação: 7,5%
-- até 6 de maio - Análise de ficheiro pcap - captura de pacotes com Wireshark/tcpdump - Ponderação: 5%
-- até 20 de maio - Trabalho Cisco Packet Tracer / IoT - Ponderação: 25%
-- 25 e 26 de maio - Apresentações dos Trabalhos Cisco Packet Tracer / IoT 
+- a partir de 7 de março iniciam-se as apresentações dos trabalhos teóricos 
 
 ## Bibliografia
 - Computer Networks, Tanenbaum, Andrew S., Prentice Hall http://books.google.pt/books?id=Pd-z64SJRBAC
