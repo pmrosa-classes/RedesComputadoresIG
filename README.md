@@ -100,6 +100,9 @@ Os alunos deverão ter uma taxa de presenças de 70% nas aulas. Excecionalmente 
 
 Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pelo regime de **avaliação final** (avaliação por exame) que integra uma prova escrita, ou outros elementos, sobre a matéria toda lecionada. Esta avaliação final ainda não está completamente definida mas, ou terá também elementos distintos da prova escrita, ou terá 45% do valor teórico/prático escrito (portanto relacionado com os laboratórios e trabalhos práticos).
 
+## Presenças
+Os alunos podem acompanhar [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=36754093&single=true) a percentagem de aulas a que assistiram.
+
 ## Método Pedagógico
 Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomeadamente:
 - Ficheiros pdf com os slides das aulas teóricas (Plataforma Canvas)
