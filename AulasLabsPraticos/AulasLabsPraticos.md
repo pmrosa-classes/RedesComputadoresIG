@@ -1,55 +1,13 @@
 # Aulas de Laboratórios Práticos
 
 
-1. Laboratório 1: Cisco Packet Tracer I 
-2. Laboratório 2: Cisco Packet Tracer II
-3. Laboratório 3: Routing I (com máquinas virtuais) 
-5. Laboratório 4: Routing II (com NAT e acesso à Internet)
-6. Laboratório 5: Captura de Tráfego numa Rede  
-7. Laboratório 6: Cisco Packet Tracer III
+1. Laboratório 1: Routing I (com máquinas virtuais) 
+2. Laboratório 2: Routing II (com NAT e acesso à Internet)
+3. Laboratório 3: Captura de Tráfego numa Rede  
 
 ## 0. Preparação dos Laboratórios / Pré-Requisitos
 
-### 0.1 Instalação do Cisco Packet Tracer (Labs 1,2 e 6)
-
-***Pré-requisito: Ter uma conta na [Cisco NetAcad](https://www.netacad.com)***
-
-Para criar conta: Escolher Login, introduzir o endereço de mail e prosseguir. Quando for detetado que o mail não está registado aparece uma opção `Create New Account`. Esta conta será a mesma que deve ser utilizada no inicio do programa, depois de instalado.
-Após criação da conta pode efetuar o download [aqui](https://www.netacad.com/portal/resources/packet-tracer)
-
-Em Fev/2022 os requisitos e versões disponiveis eram as seguintes:
-
-```
-To successfully install and run Cisco Packet Tracer 8.1, the following system requirements must be met:
-
-Cisco Packet Tracer 8.1 (64 bit):
-Computer with one of the following operating systems: Microsoft Windows 8.1, 10, 11 (64bit), Ubuntu 20.04 LTS (64bit) or macOS 10.14 or newer.
-amd64(x86-64) CPU
-4GB of free RAM
-1.4 GB of free disk space
-
- 
-Cisco Packet Tracer 8.1 (32 bit):    
-Computer with one of the following operating systems: Microsoft Windows 8.1, 10, 11 (32bit)
-x86 compatible CPU
-2GB of free RAM
-1.4 GB of free disk space
-```
-
-Existem versões para os seguintes sistemas operativos:
-```
-Windows Desktop Version 8.1.1 English
-64 Bit Download
-32 Bit Download
- 
-Ubuntu Desktop Version 8.1.1 English
-64 Bit Download
-
-macOS Version 8.1.1 English
-64 bit Download
-``` 
-
-### 0.2 Instalação de Máquinas Virtuais em equipamentos dos alunos (Labs 3,4 e 5)
+### 0.1 Instalação de Máquinas Virtuais em equipamentos dos alunos (Labs 1,2 e 3)
 
 ***Pré-requisito: VirtualBox instalado em Windows, MacOS, Linux.***
 
@@ -71,30 +29,15 @@ Instruções resumidas (podem não dispensar a consulta do manual referido anter
 # Laboratórios
 Para a calendarização prevista dos seguintes laboratórios ver as [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/README.md#planeamento-previsto-pode-sofrer-alteraçõesplaneamento) as datas.
 
-## 1. Laboratório 1: Cisco Packet Tracer I 
+## 3. Laboratório 1: Routing I 
 
-- Apresentação do interface da ferramenta Cisco Packet Tracer
-- Primeiras configurações do [Roteiro do Packet Tracer para as aulas Práticas](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/roteiro-packet-tracer.md)
+Seguir os [seguintes](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/AulasLabsPraticos/RoutingI.md) passos para a realização do laboratório.
 
-## 2. Laboratório 2: Cisco Packet Tracer II 
+## 4. Laboratório 2: Routing II
 
-Continuação das configurações do [Roteiro do Packet Tracer para as aulas Práticas](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/roteiro-packet-tracer.md)
+Seguir os [seguintes](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/AulasLabsPraticos/RoutingII.md) passos para a realização do laboratório.
 
-## 3. Laboratório 3: Routing I 
+## 5. Laboratório 3: Captura de Tráfego numa Rede 
 
-Seguir os [seguintes](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/RoutingI.md) passos para a realização do laboratório.
-
-## 4. Laboratório 4: Routing II
-
-Seguir os [seguintes](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/RoutingII.md) passos para a realização do laboratório.
-
-## 5. Laboratório 5: Captura de Tráfego numa Rede 
-
-Seguir os [seguintes](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/CapturaTrafegoRede.md) passos para a realização do laboratório.
-
-## 6. Laboratório 6: Cisco Packet Tracer III
-
-- Utilização de dispositivos IoT na ferramenta Cisco Packet Tracer
-- Configurações básicas de Servidor de IoT e equipamentos exemplo segundo o Roteiro do Packet Tracer para IoT
-- Disponível brevemente
+Seguir os [seguintes](https://github.com/pmrosa-classes/ComputerNetworksIG/blob/main/AulasLabsPraticos/CapturaTrafegoRede.md) passos para a realização do laboratório.
 
