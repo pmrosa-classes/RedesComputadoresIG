@@ -69,8 +69,8 @@ Os alunos devem:
 *(a preencher pelo Docente da UC, incluindo implementação prática do sistema e app exemplo)*
 
 #### Cibersegurança
--Comunicação segura
--Cibersegurança de aplicações web
+- Comunicação segura
+- Cibersegurança de aplicações web
 
 #### Redes e Comunicação de Dados
 - Configuração da Arquitetura de disponibilização do serviço
