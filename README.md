@@ -123,7 +123,8 @@ Os trabalhos práticos são em grupo. A [constituição dos grupos](https://gith
    - Escolha dos temas para os trabalhos teóricos
 - 27 de fevereiro - Publicação da distribuição dos temas e datas de apresentação
 - a partir de 7 de março iniciam-se as apresentações dos trabalhos teóricos 
-**NOTA:** Atenção às datas especificas do Trabalho Prático no [Briefing do Projeto](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/TrabsP/TrabsPraticos.md)
+
+**NOTA:** ***Atenção às datas especificas do Trabalho Prático no [Briefing do Projeto](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/TrabsP/TrabsPraticos.md)***
 
 ## Bibliografia
 - Computer Networks, Tanenbaum, Andrew S., Prentice Hall http://books.google.pt/books?id=Pd-z64SJRBAC
