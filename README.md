@@ -58,7 +58,7 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 
 ## Avaliação 
 
-### 1. Duas componente de avaliação continua: Trabalho Teórico (15%) + Prático/PBL (30%)
+### 1. Versão V1 - Duas componente de avaliação continua: Trabalho Teórico (15%) + Prático/PBL (30%)
 
 #### 1.1 - Trabalho Teórico (15%)
 O trabalho teórico baseia-se na apresentação de um paper. Valerá 15% para a classificação final da Unidade Curricular.Este trabalho é individual.
@@ -75,14 +75,14 @@ Este trabalho é em grupo (3 alunos no máximo, 2 alunos no minimo) e será efet
 
 Importante respeitar as datas de entrega. Não serão aceites adiamentos.
 
-### 2. Uma componente de avaliação continua: Trabalho Prático/PBL (30%)
+### 2. Versão V2 - Uma componente de avaliação continua: Trabalho Prático/PBL (30%)
 
 Enunciado conjunto do [Trabalho Prático](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/TrabsP/TrabsPraticos.md).
 Este trabalho é em grupo (3 alunos no máximo, 2 alunos no minimo) e será efetuado em conjunto com mais três unidades curriculares.
 
 Importante respeitar as datas de entrega. Não serão aceites adiamentos.
 
-### 3. Teste Escrito - Exame Final (100%)
+### 3. Versão V3 - Teste Escrito - Exame Final (100%)
 Teste Escrito unico a realizar na data marcada pela Secretaria Escolar.
 
 ### 4. Regras de Avaliacao Continua / Avaliação Final
