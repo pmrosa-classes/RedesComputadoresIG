@@ -86,15 +86,11 @@ Os alunos devem:
 
 **Entregáveis:**
 - Constituição do Grupo: **25 de fevereiro**
-- Entrega da proposta de trabalho: **4 de março**
+- Entrega da proposta de trabalho: **4 de março - ATENÇÃO: ver [Documentação](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/TrabsP/Documentacao.md) para oo formato da proposta.**
 - Entrega de vídeo com Pitch de 3 min com apresentação da proposta **4 de março**
 - Apresentação da proposta de trabalho: **semana de 7 a 11 de março**
 - Apresentação intermédia que deve incluir apresentação do protótipo **1 de abril**
-- Relatório final do projecto até **13 de maio**, de acordo com o template a disponibilizar, com inclusão de:
-  - folha de rosto com título e identificação dos alunos;
-  - resumo e palavras-chave;
-  - identificação da aplicação escolhida e justificação do uso de 2FA
-  - componente técnica, com a documentação do código fonte
+- Relatório final do projecto até **13 de maio**, de acordo **a [Documentação](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/TrabsP/Documentacao.md)**
 - Apresentação Final: **ultima semana de aulas**
 
 
