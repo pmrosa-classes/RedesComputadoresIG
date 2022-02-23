@@ -118,9 +118,10 @@ Os trabalhos práticos são em grupo. A [constituição dos grupos](https://gith
 
 ## Resumo do Calendário da UC
 *(em atualização)*
-- até 25 de fevereiro - Escolha dos temas para os trabalhos teóricos
+- *Tarefas no Canvas* até 25 de fevereiro
+   - Escolha do método de Avaliaçãoo (V1, V2 e V3)
+   - Escolha dos temas para os trabalhos teóricos
 - 27 de fevereiro - Publicação da distribuição dos temas e datas de apresentação
-- até 25 de fevereiro - Constituição dos grupos
 - a partir de 7 de março iniciam-se as apresentações dos trabalhos teóricos 
 
 ## Bibliografia
