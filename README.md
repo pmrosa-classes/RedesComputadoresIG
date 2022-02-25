@@ -41,19 +41,19 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 ### Planeamento previsto (pode sofrer alterações!)
 | Aula | Data | Aula |
 | :-----------: | :-----------: | :---------- |
-| 01 | 14 fev | Apresentação; Introdução a Redes de Computadores & Aplicações; Introdução ao Modelo OSI  |
-| 02 | 21 fev | Modelo OSI - tecnologias (ethernet, wifi, 5g)  e layer 2 - VLANs, etc;	Modelo OSI - layer 3/routing; Modelo OSI - layer 4/transporte;  |
-| 03 | 28 fev | Modelo OSI - camadas aplicacionais; Internet (história/breve); TCP/IP arquitetura, Unicast, Multicast; Inicio doo estudo de TCP/IP |
-| 04 | 7 mar | TCP/IP pacotes IP / layer IP; TCP/IP ICMP, TCP, UDP / layer transporte; TCP/IP endereçamento IPv4 |
-| 05 | 14 mar | ***Laboratório 1 ([pré-requisito 0.1](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) para elaborar o laboratório)*** ; Apoio ao trabalho prático Networking/IoT|
+| 01 | 14 fev | Apresentação; Introdução a Redes de Computadores & Aplicações  |
+| 02 | 21 fev | Introdução ao Modelo OSI; Modelo OSI - layer 1 - tecnologias (ethernet, wifi, 5g)  |
+| 03 | 28 fev | *Carnaval* |
+| 04 | 7 mar | Modelo OSI: layer 2 - VLANs, etc; layer 3 - routing; layer 4 - transporte |
+| 05 | 14 mar | Modelo OSI - camadas aplicacionais; Internet (história/breve); TCP/IP arquitetura, Unicast, Multicast; layer IP (IP, ICMP); layer de transporte (TCP, UDP); endereçamento IPv4; ***Laboratório 1 ([pré-requisito 0.1](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) para elaborar o laboratório)*** ; ***Apoio ao trabalho prático Networking/IoT*** |
 | 06 | 21 mar | TCP/IP endereçamento IPv4 (inclui subnetting)|
-| 07 | 4 abr | ***Laboratório 2 ([pré-requisito 0.1](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) para elaborar o laboratório)*** ; Apoio ao trabalho prático Networking/IoT |
+| 07 | 4 abr | ***Laboratório 2 ([pré-requisito 0.1](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) para elaborar o laboratório)*** ; Inicio do estudo de serviços (DNS, DHCP, HTTP, SNMP, etc) |
 |   | 11 abr | *Páscoa*|
-| 08 | 18 abr | Protocolos (DNS, DHCP, HTTP, SNMP, etc) – essencial: saber exatemente como se resolvem os nomes; saber exatamente como se distribui endereçamento IP dinamicamente; IPv4 vs IPv6 enquadrar IPv6 como “obrigatório” nos dias de hoje|
-| 09 | 25 abr | ***Laboratório 3 ([pré-requisito 0.1](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) para elaborar o laboratório)*** ; Apoio ao trabalho prático Networking/IoT|
-| 10 | 2 mai | IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4); IPv6 e serviços (DNSv6 e DHCPv6); Laboratório 5|
-| 11 | 9 mai | IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Miai botnet, etc); |
-| 12 | 16 mai | Integração de Sistemas; Webservices; B2B |
+| 08 | 18 abr | Continuação do estudo de serviços (DNS, DHCP, HTTP, SNMP, etc): saber exatemente como se resolvem os nomes; saber exatamente como se distribui endereçamento IP dinamicamente; IPv4 vs IPv6 enquadrar IPv6 como “obrigatório” nos dias de hoje; ***Apoio ao trabalho prático Networking*** |
+| 09 | 25 abr | *Feriado* |
+| 10 | 2 mai | ***Laboratório 3 ([pré-requisito 0.1](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) para elaborar o laboratório)*** IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4); IPv6 e serviços (DNSv6 e DHCPv6); IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); |
+| 11 | 9 mai |  Continuação do estudo de IoT; Big data; Segurança em IOT, etc); ***Apoio ao trabalho prático Networking***|
+| 12 | 16 mai | Integração de Sistemas; Webservices; B2B; ***Apoio ao trabalho prático Networking***|
 | 13 | 23 mai | Apresentações dos trabalhos práticos PBL|
 
 ## Avaliação 
