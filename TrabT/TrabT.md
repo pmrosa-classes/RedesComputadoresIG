@@ -1,5 +1,7 @@
 # Trabalho Teórico (15%)
 
+**NOTA: A distribuição dos trabalhos e datas já está disponível [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=847740588&single=true).**
+
 ## 1ª componente de avaliação continua: Análise e apresentação de um paper sobre **Internet of Things / Tecnologias de rede** – 15% da avaliação – realização voluntária.
 
 Os alunos deverão escolher três papers que tenham sido apresentados numa das conferências/journals nos anos de 2018, 2019, 2020 ou 2021 de um destes sites (apenas sugestão, podem procurar de outros locais):
@@ -15,8 +17,6 @@ O processo de escolha decorre entre 21 e 25 de fevereiro (segunda semana de aula
 Dos três papers escolhidos, o Docente escolherá um que os alunos terão que apresentar em datas a marcar (conforme o número total de apresentações a efetuar) e que se iniciam  na semana de 7/3 em LIFO (Last In First Out).
 
 Em caso de repetição de escolhas será sempre usado o método FIFO (First In First Out).
-
-A distribuição estará disponível [aqui]() depois de dia 27 de fevereiro. 
 
 **A análise deve basear-se sobre o estudo ou implementação descrita**, podendo ser útil verificar outros papers referenciados. É importante para a avaliação que o aluno exponha exatamente o que é relevante do paper, expondo ainda o seu ponto de vista sobre o que apresenta. Não é necessário nenhum relatório.
 
