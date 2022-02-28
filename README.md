@@ -66,7 +66,7 @@ Consulte o [Enunciado](https://github.com/pmrosa-classes/RedesComputadoresIG/blo
 
 Importante escolher até **25 de fevereiro**.
 
-Depois de distribuídos os temas (**até 27 de fevereiro**) as datas de apresentação estarão disponiveis [aqui](https://github.com/pmrosa-classes/ComputerNetworksIG).
+Depois de distribuídos os temas (**até 27 de fevereiro**) as datas de apresentação estarão disponiveis **[aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=847740588&single=true).**
 
 #### 1.2 - Trabalho Prático/PBL (30%)
 
@@ -121,7 +121,7 @@ Os trabalhos práticos são em grupo. A [constituição dos grupos](https://gith
 - *Tarefas no Canvas* até 25 de fevereiro
    - Escolha do método de Avaliaçãoo (V1, V2 e V3)
    - Escolha dos temas para os trabalhos teóricos
-- 27 de fevereiro - Publicação da distribuição dos temas e datas de apresentação
+- 27 de fevereiro - Publicação da distribuição dos temas e datas de apresentação **NOTA: A distribuição dos trabalhos e datas já está disponível [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=847740588&single=true).**
 - a partir de 7 de março iniciam-se as apresentações dos trabalhos teóricos 
 
 **NOTA:** ***Atenção às datas especificas do Trabalho Prático no [Briefing do Projeto](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/TrabsP/TrabsPraticos.md)***
