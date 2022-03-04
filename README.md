@@ -114,7 +114,9 @@ Poderá ser util juntarem-se ao Discord da cadeira: https://discord.gg/CC9ARR5T 
 Para terem acesso aos canais do Discord devem alterar o vosso *nick* para PrimeiroUltimo nome no servidor e colocar uma mensagem em **#general** com "Numero - Primeiro&UltimoNome - Turma" para serem atribuídos os roles adequados.
 
 ## Grupos
-Os trabalhos práticos são em grupo. A [constituição dos grupos](https://github.com/pmrosa-classes/ComputerNetworksIG) (3 alunos no máximo, 2 alunos no minimo) deve ser colocada na tarefa respetiva no Canvas até dia 25 de fevereiro: **AGUARDAR INSTRUÇÕES**
+Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e deve ser preenchida a tarefa respetiva no Canvas até dia 25 de fevereiro.
+
+**ATUALIZAÇÃO (20220304): A constituição dos grupos já está disponível** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1103377978&single=true)
 
 ## Resumo do Calendário da UC
 *(em atualização)*
