@@ -133,3 +133,11 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e
 ## Bibliografia
 - Computer Networks, Tanenbaum, Andrew S., Prentice Hall http://books.google.pt/books?id=Pd-z64SJRBAC
 - Engenharia de Redes Informáticas, Edmundo Monteiro, Fernando Boavida, Editora FCA
+
+## Log
+2022.03.07: Avaliação Informativa das Propostas já disponível [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1103377978&single=true)
+
+2022.03.04: A constituição dos grupos já está disponível [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1103377978&single=true)
+
+2022.02.27: A distribuição dos trabalhos e datas já está disponível [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=847740588&single=true)
+
