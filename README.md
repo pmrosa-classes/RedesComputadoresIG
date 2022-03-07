@@ -58,6 +58,8 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 
 ## Avaliação 
 
+**ATUALIZAÇÃO (20220307): Avaliação Informativa das Propostas já disponível** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1103377978&single=true)
+
 ### 1. Versão V1 - Duas componente de avaliação continua: Trabalho Teórico (15%) + Prático/PBL (30%)
 
 #### 1.1 - Trabalho Teórico (15%)
