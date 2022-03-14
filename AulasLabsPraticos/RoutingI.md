@@ -124,7 +124,8 @@ Para verificar se tem conectividade poderá utilizar o `ping`:
 
 ## 1.3 Interligar UE01 com a Internet
 
-Para poder ter internet nesta máquina terá de desligar a máquina com `$ sudo shutdown -h now` e adicionar uma terceira placa de rede. O switch a que se deverá ligar deverá estar configurado como *Natted*. Quando arrancar com a máquina deverá ter um terceiro interface de rede `enp0s9` que obteve automaticamente um endereço para aceder à Internet.
+Se já adicionou a terceira placa de rede no **UE01** como `NAT Network`, como especificado em cima, deverá ter um terceiro interface de rede `enp0s9` que obteve automaticamente um endereço para aceder à Internet.
+
 Para verificar isso deve:
 ```
 $ /sbin/ifconfig
