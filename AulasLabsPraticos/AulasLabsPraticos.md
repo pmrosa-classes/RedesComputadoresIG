@@ -31,7 +31,7 @@ Para a calendarização prevista dos seguintes laboratórios ver as [aqui](https
 
 ## 1. Laboratório 1: Routing I 
 
-Seguir os [seguintes](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/RoutingI.md) passos para a realização do laboratório.
+Seguir os [seguintes](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/RoutingI.md) passos para a realização do laboratório.
 
 ## 2. Laboratório 2: Routing II
 
