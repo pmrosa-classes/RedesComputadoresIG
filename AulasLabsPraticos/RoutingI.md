@@ -99,11 +99,11 @@ Para interligar estas duas máquinas virtuais, deve configurar os seguintes ende
 
 **UE01** - interface `enp0s8` - **192.168.2.1**
 
-`$ sudo ifconfig enp0s3 192.168.1.1/24 up`
+`$ sudo ifconfig enp0s3 192.168.2.1/24 up`
 
 **UE03** - interface `enp0s3` - **192.168.2.2**
 
-`$ sudo ifconfig enp0s3 192.168.1.2/24 up`
+`$ sudo ifconfig enp0s3 192.168.2.2/24 up`
 
 Para garantir que os novos endereços ficam ativos poderá reiniciar a componente de networking:
 
