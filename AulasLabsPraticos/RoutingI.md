@@ -1,14 +1,16 @@
-# Laboratório 2: Routing I
+# Laboratório 1: Routing I
 
 O Laboratório 2 tem como objetivo **Introduzir sistema de endereçamento e routing de pacotes IP** através de configurações em máquinas virtuais Linux (Ubuntu).
 
-***Pré-requisito: Três máquinas virtuais - Instalação de pelo menos uma máquina virtual do SEED Project (tal como indicado [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md)) e dois clones.***
+***Pré-requisito: Três máquinas virtuais - Instalação de pelo menos uma máquina virtual do SEED Project e dois clones.***
 
-Os clones deverão ser realizados no VirtualBox. Para tal deverá escolher a opção `Clone`, nomear a máquina virtual e escolher a opção `MAC Adress Policy: Generate new MAC addresses for all network adapters`. No final escolher `Linked Clone` para poupar espaço de armazenamento. O outro tipo de clone duplica o espaço em disco gasto pela primeira máquina virtual; o Linked Clone apenas grava as diferenças em relação à máquina original.
+Relembra-se o uso de nomes como **UE01**, **UE02** e **UE03**, ou algo do género, para as máquinas virtuais. Na documentação serão usados esses identificadores.
 
-Os recursos necessários para as máquinas virtuais não necessitam de ser superiores a 1 processador / 1Gb RAM.
+Os clones deverão ser realizados no VirtualBox e **sempre a partir da máquina original UE01**. Para tal deverá escolher a opção `Clone` nessa VM, nomear a máquina virtual (UE02 primeiro e UE03 na máquina seguinte) e escolher a opção `MAC Adress Policy: Generate new MAC addresses for all network adapters`. No final escolher `Linked Clone` para poupar espaço de armazenamento. O outro tipo de clone duplica o espaço em disco gasto pela primeira máquina virtual; o Linked Clone apenas grava as diferenças em relação à máquina original.
 
-Aconselha-se o uso de nomes como **UE01**, **UE02** e **UE03**, ou algo do género, para as máquinas virtuais. Na documentação serão usados esses identificadores
+<img src="seed-ubuntu-16-04-fig5.png" alt="Diagram 1" width="600"/>
+
+Os recursos necessários para as máquinas virtuais não necessitam de ser superiores a 1 processador / 512Mb RAM. No caso dos clones isso será mantido, de acordo com a máquina original.
 
 ## 0. Topologia a implementar
 
@@ -20,7 +22,17 @@ A primeira placa de rede de todas as máquinas deverá ser do tipo `Internal Net
 
 Ainda no mesmo local dos Settings, as primeiras placas de rede da **UE01** e **UE02** devem ser ligadas a um switch `switch01` (campo *Name*); a segunda placa de rede do **UE01** e a primeira placa de rede da **UE03** estão ligadas ao `switch02`.
 
-Escolher a opção `Promiscuous Mode: Allow VMs` em *Advanced*.
+Escolher a opção `Promiscuous Mode: Allow VMs` em *Advanced*. 
+
+Ver exemplos seguintes:
+
+Primeira placa (idêntico para UE01, UE02 e UE03):
+
+<img src="seed-ubuntu-16-04-nic-01.png" alt="Diagram 1" width="600"/>
+
+Segunda Placa (UE01):
+
+<img src="seed-ubuntu-16-04-nic-02.png" alt="Diagram 1" width="600"/>
 
 De notar que, em principio, os nomes das placas de rede nas máquinas virtuais deverao ser:
 - Primeira placa de rede: `enp0s3`
@@ -29,11 +41,20 @@ De notar que, em principio, os nomes das placas de rede nas máquinas virtuais d
 
 ## 1. Interligar Máquinas Virtuais
 
+Na grande maioria das configurações a efetuar nos laboratórios irá utilizar uma janela de terminal. Se desejar poderá adicionar um *shortcut* ao *launcher* lateral:
+
+Deve clicar no botão direito do rato no *desktop* e escolher a opção *Open Terminal*
+
+<img src="seed-desktop-terminal-2.png" alt="O *terminal* é o primeiro icon no topo da barra lateral" width="600"/>
+
+Após o *Terminal* abrir, deverá clicar no botão direito do rato em cima do icon do *Terminal* e escolher a opção *Lock to Launcher*. 
+
+<img src="seed-desktop-terminal-3.png" alt="O *terminal* é o primeiro icon no topo da barra lateral" width="600"/>
+
+Após isso poderá arrastar o icon mais para cima ficando a carregar no botão esquerdo do rato e arrastando.
+
+
 ## 1.1 Interligar UE01 com UE02
-
-Na grande maioria das configurações a efetuar nos laboratórios, irá utilizar uma janela de terminal (que pode executar através do menu lateral so ambiente gráfico). 
-
-<img src="seed-desktop-terminal.png" alt="O *terminal* é o primeiro icon no topo da barra lateral" width="600"/>
 
 Para interligar estas duas máquinas virtuais, deve configurar os seguintes endereços em cada uma delas:
 
@@ -153,6 +174,7 @@ Agora, na mesma máquina **UE02**, deverá colocar o endereço do **UE01** da me
 ```
 $ sudo ip route add default via 192.168.1.1
 ```
+*Nota: Se tiver várias possibilidades de ter rotas default, deve usar metrix X na parte final do comando*
 
 Para verificar se já tem conectividade deverá utilizar o ping:
 ```
