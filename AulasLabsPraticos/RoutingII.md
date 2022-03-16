@@ -1,4 +1,4 @@
-# Laboratório 4: Routing II / Firewall
+# Laboratório 2: Routing II / Firewall
 
 O Laboratório 4 tem como objetivo **continuar a aprendizagem do sistema de endereçamento IP e routing e introduzir mecanismos de firewall** através de configurações em máquinas virtuais Linux (Ubuntu).
 
