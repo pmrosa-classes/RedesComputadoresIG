@@ -135,6 +135,8 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e
 - Engenharia de Redes Informáticas, Edmundo Monteiro, Fernando Boavida, Editora FCA
 
 ## Log
+2022:03:16: Já disponível o *Laboratório 2: RoutingII/Firewall* [aqui](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/RoutingII.md)
+
 2022.03.07: Avaliação Informativa das Propostas já disponível [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1103377978&single=true)
 
 2022.03.04: A constituição dos grupos já está disponível [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1103377978&single=true)
