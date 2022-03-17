@@ -18,7 +18,7 @@ Os recursos necessários para as máquinas virtuais não necessitam de ser super
 
 
 Nos Settings da VirtualBox deve adicionar três placas de rede em **UE01** e uma placa de rede em **UE02** e **UE03**.
-A primeira placa de rede de todas as máquinas deverá ser do tipo `Internal Network`; a segunda placa de rede do **UE01** deve ser também do tipo `Internal Network`; a terceira plada do **UE01** do tipo `NAT Network`.
+A primeira placa de rede de todas as máquinas deverá ser do tipo `Internal Network`; a segunda placa de rede do **UE01** deve ser também do tipo `Internal Network`; a terceira placa do **UE01** do tipo `NAT Network`.
 
 Ainda no mesmo local dos Settings, as primeiras placas de rede da **UE01** e **UE02** devem ser ligadas a um switch `switch01` (campo *Name*); a segunda placa de rede do **UE01** e a primeira placa de rede da **UE03** estão ligadas ao `switch02`.
 
@@ -30,7 +30,7 @@ Primeira placa (idêntico para UE01, UE02 e UE03):
 
 <img src="seed-ubuntu-16-04-nic-01.png" alt="Diagram 1" width="600"/>
 
-Segunda Placa (UE01):
+Terceira Placa (UE01):
 
 <img src="seed-ubuntu-16-04-nic-02.png" alt="Diagram 1" width="600"/>
 
@@ -38,6 +38,48 @@ De notar que, em principio, os nomes das placas de rede nas máquinas virtuais d
 - Primeira placa de rede: `enp0s3`
 - Segunda placa de rede: `enp0s8`
 - Terceira placa de rede: `enp0s9`
+
+Para ver os nomes das placas e respetivos endereços poderá utilizar o comando *ipconfig*. Exemplo do comando no **UE01** (onde existem mais placas de rede):
+
+```
+$ ifconfig
+enp0s3    Link encap:Ethernet  HWaddr 08:00:27:28:47:74  
+          inet addr:192.168.1.1  Bcast:192.168.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::a00:27ff:fe28:4774/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:14241 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:19524 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:1567100 (1.5 MB)  TX bytes:20944662 (20.9 MB)
+
+enp0s8    Link encap:Ethernet  HWaddr 08:00:27:e3:54:07  
+          inet addr:192.168.2.1  Bcast:192.168.2.255  Mask:255.255.255.0
+          inet6 addr: fe80::a00:27ff:fee3:5407/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:10766 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:15732 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:1109168 (1.1 MB)  TX bytes:19180867 (19.1 MB)
+
+enp0s9    Link encap:Ethernet  HWaddr 08:00:27:d3:a8:8d  
+          inet addr:10.0.2.10  Bcast:10.0.2.255  Mask:255.255.255.0
+          inet6 addr: fe80::a00:27ff:fed3:a88d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:28609 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:12055 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:34979489 (34.9 MB)  TX bytes:1848149 (1.8 MB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:1209 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1209 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1 
+          RX bytes:133900 (133.9 KB)  TX bytes:133900 (133.9 KB)
+
+```
 
 ## 1. Interligar Máquinas Virtuais
 
@@ -99,7 +141,7 @@ Para interligar estas duas máquinas virtuais, deve configurar os seguintes ende
 
 **UE01** - interface `enp0s8` - **192.168.2.1**
 
-`$ sudo ifconfig enp0s3 192.168.2.1/24 up`
+`$ sudo ifconfig enp0s8 192.168.2.1/24 up`
 
 **UE03** - interface `enp0s3` - **192.168.2.2**
 
@@ -124,7 +166,7 @@ Para verificar se tem conectividade poderá utilizar o `ping`:
 
 ## 1.3 Interligar UE01 com a Internet
 
-Se já adicionou a terceira placa de rede no **UE01** como `NAT Network`, como especificado em cima, deverá ter um terceiro interface de rede `enp0s9` que obteve automaticamente um endereço para aceder à Internet.
+Se já adicionou a terceira placa de rede no UE01 como `NAT Network`, como especificado em cima, deverá ter um terceiro interface de rede `enp0s9` que obteve automaticamente um endereço para aceder à Internet.
 
 Para verificar isso deve:
 ```
@@ -230,10 +272,10 @@ Na verdade para a Internet não podem ser enviados endereços privados como os d
 
 Para realizar estas configurações, deve:
 ```
-$ sudo iptables -P FORWARD ACCEPT   
-$ sudo iptables -F FORWARD           
-$ sudo iptables -t nat -F            
-$ sudo iptables -t nat -A POSTROUTING  -o enp0s9 -j MASQUERADE   
+sudo iptables -P FORWARD ACCEPT   
+sudo iptables -F FORWARD           
+sudo iptables -t nat -F            
+sudo iptables -t nat -A POSTROUTING  -o enp0s9 -j MASQUERADE   
 ```
 
 Agora tente efetuar os pings anteriores novamente nas máquinas **UE02** e **UE03**.
@@ -297,7 +339,7 @@ iface enp0s3 inet static
     dns-nameservers 1.1.1.1
 ```
 
-Na **UE01** deve edutar ainda o ficheiro `/etc/sysctl.conf`:
+Na **UE01** deve editar ainda o ficheiro `/etc/sysctl.conf`:
 ```
 net.ipv4.ip_forward=1
 ```
