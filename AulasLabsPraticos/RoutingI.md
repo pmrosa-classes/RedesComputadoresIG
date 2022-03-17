@@ -17,8 +17,10 @@ Os recursos necessários para as máquinas virtuais não necessitam de ser super
 <img src="routingI-diagram1.png" alt="Diagram 1" width="600"/>
 
 
-Nos Settings da VirtualBox deve adicionar três placas de rede em **UE01** e uma placa de rede em **UE02** e **UE03**.
-A primeira placa de rede de todas as máquinas deverá ser do tipo `Internal Network`; a segunda placa de rede do **UE01** deve ser também do tipo `Internal Network`; a terceira placa do **UE01** do tipo `NAT Network`.
+Nos *Settings* da VirtualBox deve adicionar três placas de rede em **UE01** e uma placa de rede em **UE02** e **UE03**:
+- A primeira placa de rede de todas as máquinas deverá ser do tipo `Internal Network`
+- A segunda placa de rede do **UE01** deve ser também do tipo `Internal Network`
+- A terceira placa do **UE01** do tipo `NAT Network`. Antes deverá ter de criar essa `NAT Network` nas Preferências do VirtualBox na tab *Network*: ao escolher a opção lateral com um *+* essa rede deverá ser criada automaticamente.
 
 Ainda no mesmo local dos Settings, as primeiras placas de rede da **UE01** e **UE02** devem ser ligadas a um switch `switch01` (campo *Name*); a segunda placa de rede do **UE01** e a primeira placa de rede da **UE03** estão ligadas ao `switch02`.
 
