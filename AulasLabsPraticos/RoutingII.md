@@ -1,6 +1,6 @@
 # Laboratório 2: Routing II / Firewall
 
-O Laboratório 4 tem como objetivo **continuar a aprendizagem do sistema de endereçamento IP e routing e introduzir mecanismos de firewall** através de configurações em máquinas virtuais Linux (Ubuntu).
+O Laboratório 2 tem como objetivo **continuar a aprendizagem do sistema de endereçamento IP e routing e introduzir mecanismos de firewall** através de configurações em máquinas virtuais Linux (Ubuntu).
 
 ***Pré-requisito: Três máquinas virtuais - Instalação de pelo menos uma máquina virtual do SEED Project e dois clones; Ter o Laboratório 3: Routing I efetuado***
 
