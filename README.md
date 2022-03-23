@@ -57,6 +57,9 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 | 13 | 16 mai | Integração de Sistemas; Webservices; B2B; ***Apoio ao trabalho prático Networking***|
 | 14 | 23 mai | Apresentações dos trabalhos práticos PBL|
 
+### Sumários
+Os sumários das aulas podem ser consultados [aqui](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/sumarios.md)
+
 ## Avaliação 
 
 **ATUALIZAÇÃO (20220307): Avaliação Informativa das Propostas já disponível** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1103377978&single=true)
