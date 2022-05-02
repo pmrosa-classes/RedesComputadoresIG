@@ -1,8 +1,8 @@
-# Laboratório 5: Captura de Tráfego
+# Laboratório 3: Captura de Tráfego
 
-O Laboratório 5 tem como objetivo **aprofundar os conhecimentos obtidos no laboratório anterior na área de Captura de Tráfego numa rede** através de configurações em máquinas virtuais Linux (Ubuntu).
+O Laboratório 3 tem como objetivo **aprofundar os conhecimentos obtidos no laboratório anterior na área de Captura de Tráfego numa rede** através de configurações em máquinas virtuais Linux (Ubuntu).
 
-***Pré-requisito: Três máquinas virtuais - Instalação de pelo menos uma máquina virtual do SEED Project e dois clones; ter o Laboratório 3 - Routing I efetuado; ter o Laboratório 4 - Routing II/Firewall efetuado;***
+***Pré-requisito: Três máquinas virtuais - Instalação de pelo menos uma máquina virtual do SEED Project e dois clones; ter o Laboratório 1 - Routing I efetuado; ter o Laboratório 2 - Routing II/Firewall efetuado;***
 
 ## 0. Notas Prévias
 
