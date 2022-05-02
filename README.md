@@ -52,8 +52,8 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 |   | 11 abr | *Páscoa*|
 | 09 | 18 abr | Continuação do estudo de serviços (DNS, DHCP, HTTP, SNMP, etc): saber exatemente como se resolvem os nomes; saber exatamente como se distribui endereçamento IP dinamicamente; IPv4 vs IPv6 enquadrar IPv6 como “obrigatório” nos dias de hoje; ***Apoio ao trabalho prático Networking*** |
 | 10 | 25 abr | *Feriado* |
-| 11 | 2 mai | ***Laboratório 3 ([pré-requisito 0.1](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) para elaborar o laboratório)*** IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4); IPv6 e serviços (DNSv6 e DHCPv6); IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); |
-| 12 | 9 mai |  Continuação do estudo de IoT; Big data; Segurança em IOT, etc); ***Apoio ao trabalho prático Networking***|
+| 11 | 2 mai | IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4); IPv6 e serviços (DNSv6 e DHCPv6); IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); ***Apoio ao trabalho prático Networking*** |
+| 12 | 9 mai |  Continuação do estudo de IoT; Big data; Segurança em IOT, etc); ***Laboratório 3 ([pré-requisito 0.1](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#0-preparação-dos-laboratórios--pré-requisitos) para elaborar o laboratório)*** |
 | 13 | 16 mai | Integração de Sistemas; Webservices; B2B; ***Apoio ao trabalho prático Networking***|
 | 14 | 23 mai | Apresentações dos trabalhos práticos PBL|
 
