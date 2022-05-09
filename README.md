@@ -140,7 +140,7 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e
 
 ## Log
 
-2022:05:02: Já disponível o *Laboratório 3: Captura de Tráfego* [aqui](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/RoutingII.md)
+2022:05:02: Já disponível o *Laboratório 3: Captura de Tráfego* [aqui](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/CapturaTrafegoRede.md)
 
 2022:03:23: Acrescentado o link para os [Sumários](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/sumarios.md)
 
