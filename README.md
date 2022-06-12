@@ -62,7 +62,9 @@ Os sumários das aulas podem ser consultados [aqui](https://github.com/pmrosa-cl
 
 ## Avaliação 
 
-**ATUALIZAÇÃO (20220307): Avaliação Informativa das Propostas já disponível** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1103377978&single=true)
+**ATUALIZAÇÃO (20220612): Classificações de Avaliação Continua V1 - PBL ** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=2013269357&single=true)
+
+**ATUALIZAÇÃO (20220612): Classificações de Avaliação Continua S/PBL ** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1427112282&single=true)
 
 ### 1. Versão V1 - Duas componente de avaliação continua: Trabalho Teórico (15%) + Prático/PBL (30%)
 
@@ -139,6 +141,10 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e
 - Engenharia de Redes Informáticas, Edmundo Monteiro, Fernando Boavida, Editora FCA
 
 ## Log
+
+2022.06.12: Classificações de Avaliação Continua V1 - PBL ** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=2013269357&single=true)
+
+2022.06.12: Classificações de Avaliação Continua S/PBL ** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1427112282&single=true)
 
 2022:05:02: Já disponível o *Laboratório 3: Captura de Tráfego* [aqui](https://github.com/pmrosa-classes/RedesComputadoresIG/blob/main/AulasLabsPraticos/CapturaTrafegoRede.md)
 
