@@ -62,9 +62,11 @@ Os sumários das aulas podem ser consultados [aqui](https://github.com/pmrosa-cl
 
 ## Avaliação 
 
-**ATUALIZAÇÃO (20220612): Classificações de Avaliação Continua V1 - PBL** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=2013269357&single=true)
+**ATUALIZAÇÃO (20220630): Classificações Finais de Avaliação Continua V1 - PBL** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=2013269357&single=true)
 
-**ATUALIZAÇÃO (20220612): Classificações de Avaliação Continua S/PBL** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1427112282&single=true)
+**ATUALIZAÇÃO (20220630): Classificações Finais de Avaliação Continua S/PBL** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1427112282&single=true)
+
+**ATUALIZAÇÃO (20220630): Classificações dos Exames** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1771882915&single=true)
 
 ### 1. Versão V1 - Duas componente de avaliação continua: Trabalho Teórico (15%) + Prático/PBL (30%)
 
