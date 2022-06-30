@@ -146,9 +146,9 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e
 
 2022.06.30: Classificações Finais de Avaliação Continua V1 - PBL [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=2013269357&single=true)
 
-2022.06.30: : Classificações Finais de Avaliação Continua S/PBL [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1427112282&single=true)
+2022.06.30: Classificações Finais de Avaliação Continua S/PBL [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1427112282&single=true)
 
-2022.06.30: : Classificações dos Exames [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1771882915&single=true)
+2022.06.30: Classificações dos Exames [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=1771882915&single=true)
 
 2022.06.12: Classificações de Avaliação Continua V1 - PBL ** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPW3J8HWJaJuxQWSX4aRlTZb5b42WlxPGzPb3XOqXBUliAieZWA6MU9obHSqlq5ruxONbCCRLOHT0t/pubhtml?gid=2013269357&single=true)
 
